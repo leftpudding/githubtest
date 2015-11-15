@@ -6,4 +6,4 @@ asdf
 1. asdfadf
 4. \[Administration] > [Plugins],
 
-/img.png
+https://github.com/leftpudding/githubtest/img.png
