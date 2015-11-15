@@ -6,4 +6,4 @@ asdf
 1. asdfadf
 4. \[Administration] > [Plugins],
 
-![ScreenShot](/img.png)
+/img.png
