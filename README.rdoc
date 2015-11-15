@@ -7,3 +7,4 @@ asdf
 4. \[Administration] > [Plugins],
 
 https://github.com/leftpudding/githubtest/img.png
+https://raw.githubusercontent.com/leftpudding/githubtest/master/img.png
