@@ -4,4 +4,4 @@ asdf
 
 == Installation and Setup
 1. asdfadf
-4. [Administration] > [Plugins],
+4. \[Administration] > [Plugins],
